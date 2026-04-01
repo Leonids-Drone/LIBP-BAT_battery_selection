@@ -23,25 +23,23 @@ def auth_superuser() -> str:
         timeout=10,
     )
     resp.raise_for_status()
-    data = resp.json()
-    return data["token"]
+    return resp.json()["token"]
 
 
-def create_record(token: str, battery_cell_id: int, voltage_v: float, ir_mohm: float | None = None) -> dict:
+def create_record(token: str, battery_cell_id: int, voltage_v: float) -> dict:
     url = f"{PB_URL}/api/collections/{COLLECTION}/records"
     headers = {
         "Authorization": token,
         "Content-Type": "application/json",
     }
 
+    sn = f"LIBP-BAT-{battery_cell_id:04d}"
+
     payload = {
-        "name": f"cell_{battery_cell_id:02d}",
+        "sn": sn,
         "battery_cell_id": battery_cell_id,
         "voltage_v": voltage_v,
     }
-
-    if ir_mohm is not None:
-        payload["ir_mohm"] = ir_mohm
 
     resp = requests.post(url, headers=headers, json=payload, timeout=10)
     resp.raise_for_status()
@@ -49,7 +47,15 @@ def create_record(token: str, battery_cell_id: int, voltage_v: float, ir_mohm: f
 
 
 def measure_voltage(inst) -> float:
-    return float(inst.query("MEAS:VOLT:DC?"))
+    values = []
+    for i in range(10):
+        v = float(inst.query("MEAS:VOLT:DC?"))
+        values.append(v)
+        print(f"  sample {i + 1:02d}: {v:.8f} V")
+
+    avg = sum(values) / len(values)
+    print(f"  average   : {avg:.8f} V")
+    return avg
 
 
 def main():
@@ -71,8 +77,8 @@ def main():
 
         while battery_cell_id <= END_CELL_ID:
             cmd = input(
-                f"\nPress Enter to measure cell {battery_cell_id}, "
-                f"or type 'q' to quit: "
+                f"\nPress Enter to measure cell {battery_cell_id} "
+                f"(SN: LIBP-BAT-{battery_cell_id:04d}), or type 'q' to quit: "
             ).strip().lower()
 
             if cmd == "q":
@@ -81,13 +87,13 @@ def main():
 
             try:
                 voltage = measure_voltage(inst)
-                print(f"Cell {battery_cell_id}: {voltage:.10f} V")
+                sn = f"LIBP-BAT-{battery_cell_id:04d}"
+                print(f"Cell {battery_cell_id} [{sn}] average: {voltage:.10f} V")
 
                 record = create_record(
                     token=token,
                     battery_cell_id=battery_cell_id,
                     voltage_v=voltage,
-                    ir_mohm=None,  # 以后有内阻仪再填
                 )
 
                 print("Created record successfully:")
