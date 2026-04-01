@@ -81,12 +81,38 @@ def main():
 
     print(f"Loaded {len(voltages)} voltage records.")
 
+
     plt.figure(figsize=(8, 5))
-    plt.hist(voltages, bins=10)
+    plt.hist(voltages, bins=40)
     plt.xlabel("Voltage (V)")
     plt.ylabel("Count")
     plt.title("Battery Cell Voltage Histogram")
     plt.grid(True)
+
+    '''
+    plt.figure(figsize=(10, 5))
+    plt.plot(voltages, marker="o")
+    plt.xlabel("Cell Index")
+    plt.ylabel("Voltage (V)")
+    plt.title("Cell Voltage Distribution")
+    plt.grid(True)
+    '''
+
+    v_sorted = sorted(voltages)
+
+    plt.figure(figsize=(8, 5))
+    plt.plot(v_sorted, marker="o")
+    plt.xlabel("Rank")
+    plt.ylabel("Voltage (V)")
+    plt.title("Sorted Cell Voltages")
+    plt.grid(True)
+
+    plt.figure(figsize=(4, 6))
+    plt.boxplot(voltages)
+    plt.title("Voltage Boxplot")
+    plt.ylabel("Voltage (V)")
+    plt.grid(True)
+    
     plt.show()
 
 
