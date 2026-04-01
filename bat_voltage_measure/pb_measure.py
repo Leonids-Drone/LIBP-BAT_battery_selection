@@ -37,6 +37,7 @@ def create_record(token: str, battery_cell_id: int, voltage_v: float) -> dict:
 
     payload = {
         "sn": sn,
+        "sn_num": battery_cell_id,
         "battery_cell_id": battery_cell_id,
         "voltage_v": voltage_v,
     }
