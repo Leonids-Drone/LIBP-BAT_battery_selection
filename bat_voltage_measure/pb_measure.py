@@ -8,7 +8,7 @@ SUPERUSER_PASSWORD = "tzr!tez4bwm*UWF7mpd"
 COLLECTION = "measurements"
 RESOURCE = "USB0::0x2A8D::0x1601::MY60089648::0::INSTR"
 
-START_CELL_ID = 1
+START_CELL_ID = 80
 END_CELL_ID = 80
 
 
@@ -40,6 +40,7 @@ def create_record(token: str, battery_cell_id: int, voltage_v: float) -> dict:
         "sn_num": battery_cell_id,
         "battery_cell_id": battery_cell_id,
         "voltage_v": voltage_v,
+        "test_num": 1
     }
 
     resp = requests.post(url, headers=headers, json=payload, timeout=10)

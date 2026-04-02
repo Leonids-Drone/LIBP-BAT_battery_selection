@@ -1,0 +1,1055 @@
+Hello from bat-voltage-measure!
+PocketBase auth OK
+Resources: ('ASRL1::INSTR', 'ASRL2::INSTR', 'ASRL3::INSTR', 'ASRL4::INSTR', 'USB0::0x2A8D::0x1601::MY60089648::INSTR')
+IDN: Keysight Technologies,34460A,MY60089648,A.03.03-03.15-03.03-00.52-04-03
+
+Press Enter to measure cell 14 (SN: LIBP-BAT-0014), or type 'q' to quit:   sample 01: 3.61321590 V
+  sample 02: 3.61321374 V
+  sample 03: 3.61321473 V
+  sample 04: 3.61321297 V
+  sample 05: 3.61321291 V
+  sample 06: 3.60925848 V
+  sample 07: 3.61321313 V
+  sample 08: 3.61321214 V
+  sample 09: 3.19698657 V
+  sample 10: 3.61320959 V
+  average   : 3.57119502 V
+Cell 14 [LIBP-BAT-0014] average: 3.5711950160 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:09:00.355Z', 'id': '9u7a0uofdq5b8wk', 'ir_mohm': '', 'sn': 'LIBP-BAT-0014', 'sn_num': 14, 'test_num': 1, 'updated': '2026-04-02 13:09:00.355Z', 'voltage_v': '3.571195016'}
+
+Press Enter to measure cell 15 (SN: LIBP-BAT-0015), or type 'q' to quit:   sample 01: 3.61317840 V
+  sample 02: 3.61319915 V
+  sample 03: 3.61321078 V
+  sample 04: 3.61320923 V
+  sample 05: 3.61320766 V
+  sample 06: 3.61320827 V
+  sample 07: 3.61321125 V
+  sample 08: 3.61321162 V
+  sample 09: 3.61320881 V
+  sample 10: 3.61321008 V
+  average   : 3.61320553 V
+Cell 15 [LIBP-BAT-0015] average: 3.6132055250 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:09:04.650Z', 'id': 'f459eh2ad1c0lha', 'ir_mohm': '', 'sn': 'LIBP-BAT-0015', 'sn_num': 15, 'test_num': 1, 'updated': '2026-04-02 13:09:04.650Z', 'voltage_v': '3.613205525'}
+
+Press Enter to measure cell 16 (SN: LIBP-BAT-0016), or type 'q' to quit: Stopped by user.
+
+Finished. Next battery_cell_id would be: 16
+Hello from bat-voltage-measure!
+PocketBase auth OK
+Resources: ('ASRL1::INSTR', 'ASRL2::INSTR', 'ASRL3::INSTR', 'ASRL4::INSTR', 'USB0::0x2A8D::0x1601::MY60089648::INSTR')
+IDN: Keysight Technologies,34460A,MY60089648,A.03.03-03.15-03.03-00.52-04-03
+
+Press Enter to measure cell 15 (SN: LIBP-BAT-0015), or type 'q' to quit:   sample 01: 3.61321096 V
+  sample 02: 3.61321310 V
+  sample 03: 3.61321215 V
+  sample 04: 3.61321234 V
+  sample 05: 3.61321215 V
+  sample 06: 3.61321366 V
+  sample 07: 3.61321450 V
+  sample 08: 3.61321124 V
+  sample 09: 3.61321487 V
+  sample 10: 3.61321098 V
+  average   : 3.61321260 V
+Cell 15 [LIBP-BAT-0015] average: 3.6132125950 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:09:30.897Z', 'id': 'eyswjczunhcguyp', 'ir_mohm': '', 'sn': 'LIBP-BAT-0015', 'sn_num': 15, 'test_num': 1, 'updated': '2026-04-02 13:09:30.897Z', 'voltage_v': '3.6132125950000002'}
+
+Press Enter to measure cell 16 (SN: LIBP-BAT-0016), or type 'q' to quit:   sample 01: 3.62028088 V
+  sample 02: 3.62027973 V
+  sample 03: 3.62027650 V
+  sample 04: 3.62028167 V
+  sample 05: 3.62027839 V
+  sample 06: 3.62028119 V
+  sample 07: 3.62027954 V
+  sample 08: 3.62027866 V
+  sample 09: 3.62028097 V
+  sample 10: 3.62028008 V
+  average   : 3.62027976 V
+Cell 16 [LIBP-BAT-0016] average: 3.6202797610 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:09:44.886Z', 'id': 'gk2tyqywemuekg4', 'ir_mohm': '', 'sn': 'LIBP-BAT-0016', 'sn_num': 16, 'test_num': 1, 'updated': '2026-04-02 13:09:44.886Z', 'voltage_v': '3.620279761'}
+
+Press Enter to measure cell 17 (SN: LIBP-BAT-0017), or type 'q' to quit:   sample 01: 3.59071606 V
+  sample 02: 3.59071687 V
+  sample 03: 3.59071726 V
+  sample 04: 3.59071286 V
+  sample 05: 3.59071716 V
+  sample 06: 3.59071571 V
+  sample 07: 3.59071552 V
+  sample 08: 3.59071668 V
+  sample 09: 3.59071741 V
+  sample 10: 3.59071536 V
+  average   : 3.59071609 V
+Cell 17 [LIBP-BAT-0017] average: 3.5907160890 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:09:58.403Z', 'id': 'h9fklc3m1s6izwj', 'ir_mohm': '', 'sn': 'LIBP-BAT-0017', 'sn_num': 17, 'test_num': 1, 'updated': '2026-04-02 13:09:58.403Z', 'voltage_v': '3.590716089'}
+
+Press Enter to measure cell 18 (SN: LIBP-BAT-0018), or type 'q' to quit:   sample 01: 3.61942133 V
+  sample 02: 3.61942397 V
+  sample 03: 3.61942353 V
+  sample 04: 3.61942655 V
+  sample 05: 3.61942180 V
+  sample 06: 3.61942423 V
+  sample 07: 3.61942254 V
+  sample 08: 3.61942361 V
+  sample 09: 3.61942150 V
+  sample 10: 3.61941933 V
+  average   : 3.61942284 V
+Cell 18 [LIBP-BAT-0018] average: 3.6194228390 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:10:21.926Z', 'id': 'wbxn5cwefd6uivl', 'ir_mohm': '', 'sn': 'LIBP-BAT-0018', 'sn_num': 18, 'test_num': 1, 'updated': '2026-04-02 13:10:21.926Z', 'voltage_v': '3.619422839'}
+
+Press Enter to measure cell 19 (SN: LIBP-BAT-0019), or type 'q' to quit:   sample 01: 3.59502919 V
+  sample 02: 3.59502990 V
+  sample 03: 3.59502748 V
+  sample 04: 3.59502722 V
+  sample 05: 3.59502894 V
+  sample 06: 3.59503055 V
+  sample 07: 3.59503091 V
+  sample 08: 3.59503001 V
+  sample 09: 3.59502853 V
+  sample 10: 3.59503242 V
+  average   : 3.59502952 V
+Cell 19 [LIBP-BAT-0019] average: 3.5950295150 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:10:43.668Z', 'id': 'xxh7tyxm1ww6rb9', 'ir_mohm': '', 'sn': 'LIBP-BAT-0019', 'sn_num': 19, 'test_num': 1, 'updated': '2026-04-02 13:10:43.668Z', 'voltage_v': '3.5950295150000002'}
+
+Press Enter to measure cell 20 (SN: LIBP-BAT-0020), or type 'q' to quit:   sample 01: 3.60935284 V
+  sample 02: 3.60935256 V
+  sample 03: 3.60935052 V
+  sample 04: 3.60934796 V
+  sample 05: 3.60935055 V
+  sample 06: 3.60934874 V
+  sample 07: 3.60934971 V
+  sample 08: 3.60934844 V
+  sample 09: 3.60934729 V
+  sample 10: 3.60934887 V
+  average   : 3.60934975 V
+Cell 20 [LIBP-BAT-0020] average: 3.6093497480 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:11:05.106Z', 'id': 'qigvnz2itorv1ys', 'ir_mohm': '', 'sn': 'LIBP-BAT-0020', 'sn_num': 20, 'test_num': 1, 'updated': '2026-04-02 13:11:05.106Z', 'voltage_v': '3.6093497480000005'}
+
+Press Enter to measure cell 21 (SN: LIBP-BAT-0021), or type 'q' to quit:   sample 01: 3.58124942 V
+  sample 02: 3.58124944 V
+  sample 03: 3.58125141 V
+  sample 04: 3.58125016 V
+  sample 05: 3.58125129 V
+  sample 06: 3.58125294 V
+  sample 07: 3.58125232 V
+  sample 08: 3.58125056 V
+  sample 09: 3.58125232 V
+  sample 10: 3.58124957 V
+  average   : 3.58125094 V
+Cell 21 [LIBP-BAT-0021] average: 3.5812509430 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:11:22.351Z', 'id': 'z3yjqw700ea5jy6', 'ir_mohm': '', 'sn': 'LIBP-BAT-0021', 'sn_num': 21, 'test_num': 1, 'updated': '2026-04-02 13:11:22.351Z', 'voltage_v': '3.5812509429999997'}
+
+Press Enter to measure cell 22 (SN: LIBP-BAT-0022), or type 'q' to quit:   sample 01: 3.61817686 V
+  sample 02: 3.61817369 V
+  sample 03: 3.61817566 V
+  sample 04: 3.61817487 V
+  sample 05: 3.61817529 V
+  sample 06: 3.61817726 V
+  sample 07: 3.61817712 V
+  sample 08: 3.61817621 V
+  sample 09: 3.61817756 V
+  sample 10: 3.61817643 V
+  average   : 3.61817609 V
+Cell 22 [LIBP-BAT-0022] average: 3.6181760950 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:11:47.638Z', 'id': '8dcs4f0o13n5mqv', 'ir_mohm': '', 'sn': 'LIBP-BAT-0022', 'sn_num': 22, 'test_num': 1, 'updated': '2026-04-02 13:11:47.638Z', 'voltage_v': '3.618176095'}
+
+Press Enter to measure cell 23 (SN: LIBP-BAT-0023), or type 'q' to quit:   sample 01: 3.61799745 V
+  sample 02: 3.61800253 V
+  sample 03: 3.61799961 V
+  sample 04: 3.61800033 V
+  sample 05: 3.61799857 V
+  sample 06: 3.61800153 V
+  sample 07: 3.61799680 V
+  sample 08: 3.61799956 V
+  sample 09: 3.61800209 V
+  sample 10: 3.61800199 V
+  average   : 3.61800005 V
+Cell 23 [LIBP-BAT-0023] average: 3.6180000460 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:12:07.066Z', 'id': 'l9ma62km22jpmjm', 'ir_mohm': '', 'sn': 'LIBP-BAT-0023', 'sn_num': 23, 'test_num': 1, 'updated': '2026-04-02 13:12:07.066Z', 'voltage_v': '3.618000046'}
+
+Press Enter to measure cell 24 (SN: LIBP-BAT-0024), or type 'q' to quit:   sample 01: 3.58735284 V
+  sample 02: 3.58735425 V
+  sample 03: 3.58735401 V
+  sample 04: 3.58735591 V
+  sample 05: 3.58735424 V
+  sample 06: 3.58735165 V
+  sample 07: 3.58735339 V
+  sample 08: 3.58735344 V
+  sample 09: 3.58735486 V
+  sample 10: 3.58735455 V
+  average   : 3.58735391 V
+Cell 24 [LIBP-BAT-0024] average: 3.5873539140 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:12:23.020Z', 'id': 'gjnv9y88auxzimk', 'ir_mohm': '', 'sn': 'LIBP-BAT-0024', 'sn_num': 24, 'test_num': 1, 'updated': '2026-04-02 13:12:23.020Z', 'voltage_v': '3.587353914'}
+
+Press Enter to measure cell 25 (SN: LIBP-BAT-0025), or type 'q' to quit:   sample 01: 3.61780232 V
+  sample 02: 3.61780111 V
+  sample 03: 3.61780056 V
+  sample 04: 3.61779940 V
+  sample 05: 3.61780131 V
+  sample 06: 3.61780107 V
+  sample 07: 3.61780251 V
+  sample 08: 3.61780413 V
+  sample 09: 3.61779935 V
+  sample 10: 3.61780442 V
+  average   : 3.61780162 V
+Cell 25 [LIBP-BAT-0025] average: 3.6178016180 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:12:44.658Z', 'id': 'uprah7qw5cf7vi9', 'ir_mohm': '', 'sn': 'LIBP-BAT-0025', 'sn_num': 25, 'test_num': 1, 'updated': '2026-04-02 13:12:44.658Z', 'voltage_v': '3.617801618'}
+
+Press Enter to measure cell 26 (SN: LIBP-BAT-0026), or type 'q' to quit:   sample 01: 3.61374800 V
+  sample 02: 3.61375031 V
+  sample 03: 3.61375051 V
+  sample 04: 3.61375173 V
+  sample 05: 3.61374759 V
+  sample 06: 3.61374441 V
+  sample 07: 3.61374844 V
+  sample 08: 3.61374648 V
+  sample 09: 3.61374791 V
+  sample 10: 3.61374884 V
+  average   : 3.61374842 V
+Cell 26 [LIBP-BAT-0026] average: 3.6137484220 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:13:09.460Z', 'id': 'dkd84o3t39sjy8t', 'ir_mohm': '', 'sn': 'LIBP-BAT-0026', 'sn_num': 26, 'test_num': 1, 'updated': '2026-04-02 13:13:09.460Z', 'voltage_v': '3.6137484219999996'}
+
+Press Enter to measure cell 27 (SN: LIBP-BAT-0027), or type 'q' to quit:   sample 01: 3.61943928 V
+  sample 02: 3.61943430 V
+  sample 03: 3.61943889 V
+  sample 04: 3.61943789 V
+  sample 05: 3.61943692 V
+  sample 06: 3.61943613 V
+  sample 07: 3.61943858 V
+  sample 08: 3.61943753 V
+  sample 09: 3.61944219 V
+  sample 10: 3.61944157 V
+  average   : 3.61943833 V
+Cell 27 [LIBP-BAT-0027] average: 3.6194383280 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:13:34.930Z', 'id': 'zkyju27apolxjdy', 'ir_mohm': '', 'sn': 'LIBP-BAT-0027', 'sn_num': 27, 'test_num': 1, 'updated': '2026-04-02 13:13:34.930Z', 'voltage_v': '3.6194383279999998'}
+
+Press Enter to measure cell 28 (SN: LIBP-BAT-0028), or type 'q' to quit:   sample 01: 3.62398585 V
+  sample 02: 3.62398553 V
+  sample 03: 3.62398538 V
+  sample 04: 3.62398472 V
+  sample 05: 3.62398729 V
+  sample 06: 3.62398477 V
+  sample 07: 3.62398618 V
+  sample 08: 3.62398606 V
+  sample 09: 3.62398937 V
+  sample 10: 3.62398667 V
+  average   : 3.62398618 V
+Cell 28 [LIBP-BAT-0028] average: 3.6239861820 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:13:58.659Z', 'id': 'wc7lhxrrhte2aw1', 'ir_mohm': '', 'sn': 'LIBP-BAT-0028', 'sn_num': 28, 'test_num': 1, 'updated': '2026-04-02 13:13:58.659Z', 'voltage_v': '3.6239861820000003'}
+
+Press Enter to measure cell 29 (SN: LIBP-BAT-0029), or type 'q' to quit:   sample 01: 3.54966957 V
+  sample 02: 3.54967094 V
+  sample 03: 3.54967152 V
+  sample 04: 3.54966897 V
+  sample 05: 3.54966717 V
+  sample 06: 3.54966645 V
+  sample 07: 3.54966859 V
+  sample 08: 3.54966616 V
+  sample 09: 3.54966575 V
+  sample 10: 3.54966544 V
+  average   : 3.54966806 V
+Cell 29 [LIBP-BAT-0029] average: 3.5496680560 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:14:15.062Z', 'id': 'slxz97ygeycxeq8', 'ir_mohm': '', 'sn': 'LIBP-BAT-0029', 'sn_num': 29, 'test_num': 1, 'updated': '2026-04-02 13:14:15.062Z', 'voltage_v': '3.5496680560000002'}
+
+Press Enter to measure cell 30 (SN: LIBP-BAT-0030), or type 'q' to quit:   sample 01: 3.61971393 V
+  sample 02: 3.61971431 V
+  sample 03: 3.61971483 V
+  sample 04: 3.61971640 V
+  sample 05: 3.61971599 V
+  sample 06: 3.61971438 V
+  sample 07: 3.61971536 V
+  sample 08: 3.61971508 V
+  sample 09: 3.61971473 V
+  sample 10: 3.61971474 V
+  average   : 3.61971497 V
+Cell 30 [LIBP-BAT-0030] average: 3.6197149750 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:14:31.324Z', 'id': 'x5vsj8k05s5i7d4', 'ir_mohm': '', 'sn': 'LIBP-BAT-0030', 'sn_num': 30, 'test_num': 1, 'updated': '2026-04-02 13:14:31.324Z', 'voltage_v': '3.619714975'}
+
+Press Enter to measure cell 31 (SN: LIBP-BAT-0031), or type 'q' to quit:   sample 01: 3.60592727 V
+  sample 02: 3.60592372 V
+  sample 03: 3.60592087 V
+  sample 04: 3.60592640 V
+  sample 05: 3.60592557 V
+  sample 06: 3.60592486 V
+  sample 07: 3.60592529 V
+  sample 08: 3.60593140 V
+  sample 09: 3.60593180 V
+  sample 10: 3.60593214 V
+  average   : 3.60592693 V
+Cell 31 [LIBP-BAT-0031] average: 3.6059269320 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:14:47.359Z', 'id': 'ywou0nlqfvpejx3', 'ir_mohm': '', 'sn': 'LIBP-BAT-0031', 'sn_num': 31, 'test_num': 1, 'updated': '2026-04-02 13:14:47.359Z', 'voltage_v': '3.605926932'}
+
+Press Enter to measure cell 32 (SN: LIBP-BAT-0032), or type 'q' to quit:   sample 01: 3.60962848 V
+  sample 02: 3.60962898 V
+  sample 03: 3.60963042 V
+  sample 04: 3.60962893 V
+  sample 05: 3.60962865 V
+  sample 06: 3.60962995 V
+  sample 07: 3.60963016 V
+  sample 08: 3.60962765 V
+  sample 09: 3.60963084 V
+  sample 10: 3.60962826 V
+  average   : 3.60962923 V
+Cell 32 [LIBP-BAT-0032] average: 3.6096292320 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:14:59.338Z', 'id': '064kdos6afw7m3x', 'ir_mohm': '', 'sn': 'LIBP-BAT-0032', 'sn_num': 32, 'test_num': 1, 'updated': '2026-04-02 13:14:59.338Z', 'voltage_v': '3.6096292320000005'}
+
+Press Enter to measure cell 33 (SN: LIBP-BAT-0033), or type 'q' to quit:   sample 01: 3.62059381 V
+  sample 02: 3.62059374 V
+  sample 03: 3.62059000 V
+  sample 04: 3.62059438 V
+  sample 05: 3.62059148 V
+  sample 06: 3.62059187 V
+  sample 07: 3.62059151 V
+  sample 08: 3.62059384 V
+  sample 09: 3.62059411 V
+  sample 10: 3.62059400 V
+  average   : 3.62059287 V
+Cell 33 [LIBP-BAT-0033] average: 3.6205928740 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:15:09.363Z', 'id': 'w7pbx3t41j7zj0r', 'ir_mohm': '', 'sn': 'LIBP-BAT-0033', 'sn_num': 33, 'test_num': 1, 'updated': '2026-04-02 13:15:09.363Z', 'voltage_v': '3.6205928739999997'}
+
+Press Enter to measure cell 34 (SN: LIBP-BAT-0034), or type 'q' to quit:   sample 01: 3.62265553 V
+  sample 02: 3.62265765 V
+  sample 03: 3.62265702 V
+  sample 04: 3.62265502 V
+  sample 05: 3.62265491 V
+  sample 06: 3.62265363 V
+  sample 07: 3.62265784 V
+  sample 08: 3.62265526 V
+  sample 09: 3.62265805 V
+  sample 10: 3.62265744 V
+  average   : 3.62265624 V
+Cell 34 [LIBP-BAT-0034] average: 3.6226562350 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:15:22.803Z', 'id': 'zrsou8vsoiyy50o', 'ir_mohm': '', 'sn': 'LIBP-BAT-0034', 'sn_num': 34, 'test_num': 1, 'updated': '2026-04-02 13:15:22.803Z', 'voltage_v': '3.622656235'}
+
+Press Enter to measure cell 35 (SN: LIBP-BAT-0035), or type 'q' to quit:   sample 01: 3.57834984 V
+  sample 02: 3.57835262 V
+  sample 03: 3.57835196 V
+  sample 04: 3.57835465 V
+  sample 05: 3.57835041 V
+  sample 06: 3.57835007 V
+  sample 07: 3.57835197 V
+  sample 08: 3.57835202 V
+  sample 09: 3.57835194 V
+  sample 10: 3.57835236 V
+  average   : 3.57835178 V
+Cell 35 [LIBP-BAT-0035] average: 3.5783517840 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:15:44.675Z', 'id': 'byh0nbp6sbij2pc', 'ir_mohm': '', 'sn': 'LIBP-BAT-0035', 'sn_num': 35, 'test_num': 1, 'updated': '2026-04-02 13:15:44.675Z', 'voltage_v': '3.578351784'}
+
+Press Enter to measure cell 36 (SN: LIBP-BAT-0036), or type 'q' to quit:   sample 01: 3.62184382 V
+  sample 02: 3.62184242 V
+  sample 03: 3.62184394 V
+  sample 04: 3.62184321 V
+  sample 05: 3.62184153 V
+  sample 06: 3.62183732 V
+  sample 07: 3.62184213 V
+  sample 08: 3.62184132 V
+  sample 09: 3.62184238 V
+  sample 10: 3.62184115 V
+  average   : 3.62184192 V
+Cell 36 [LIBP-BAT-0036] average: 3.6218419220 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:15:56.544Z', 'id': 'gwd7ibo5vc5i8fj', 'ir_mohm': '', 'sn': 'LIBP-BAT-0036', 'sn_num': 36, 'test_num': 1, 'updated': '2026-04-02 13:15:56.544Z', 'voltage_v': '3.621841922'}
+
+Press Enter to measure cell 37 (SN: LIBP-BAT-0037), or type 'q' to quit:   sample 01: 3.60362130 V
+  sample 02: 3.60362443 V
+  sample 03: 3.60362266 V
+  sample 04: 3.60362149 V
+  sample 05: 3.60362816 V
+  sample 06: 3.60362533 V
+  sample 07: 3.60362385 V
+  sample 08: 3.60362325 V
+  sample 09: 3.60362582 V
+  sample 10: 3.60362380 V
+  average   : 3.60362401 V
+Cell 37 [LIBP-BAT-0037] average: 3.6036240090 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:16:08.276Z', 'id': 's3sfjju9ib2q4ex', 'ir_mohm': '', 'sn': 'LIBP-BAT-0037', 'sn_num': 37, 'test_num': 1, 'updated': '2026-04-02 13:16:08.276Z', 'voltage_v': '3.603624009'}
+
+Press Enter to measure cell 38 (SN: LIBP-BAT-0038), or type 'q' to quit:   sample 01: 3.62115673 V
+  sample 02: 3.62115485 V
+  sample 03: 3.62115177 V
+  sample 04: 3.62115541 V
+  sample 05: 3.62114920 V
+  sample 06: 3.62115170 V
+  sample 07: 3.62115186 V
+  sample 08: 3.62115290 V
+  sample 09: 3.62115176 V
+  sample 10: 3.62115306 V
+  average   : 3.62115292 V
+Cell 38 [LIBP-BAT-0038] average: 3.6211529240 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:16:19.307Z', 'id': '1tml3q9k6q3104i', 'ir_mohm': '', 'sn': 'LIBP-BAT-0038', 'sn_num': 38, 'test_num': 1, 'updated': '2026-04-02 13:16:19.307Z', 'voltage_v': '3.6211529239999996'}
+
+Press Enter to measure cell 39 (SN: LIBP-BAT-0039), or type 'q' to quit:   sample 01: 3.59816998 V
+  sample 02: 3.59817049 V
+  sample 03: 3.59817508 V
+  sample 04: 3.59817059 V
+  sample 05: 3.59817370 V
+  sample 06: 3.59817147 V
+  sample 07: 3.59817122 V
+  sample 08: 3.59817077 V
+  sample 09: 3.59817150 V
+  sample 10: 3.59816953 V
+  average   : 3.59817143 V
+Cell 39 [LIBP-BAT-0039] average: 3.5981714330 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:16:31.005Z', 'id': 'makwgcrcdc1v61u', 'ir_mohm': '', 'sn': 'LIBP-BAT-0039', 'sn_num': 39, 'test_num': 1, 'updated': '2026-04-02 13:16:31.005Z', 'voltage_v': '3.598171433'}
+
+Press Enter to measure cell 40 (SN: LIBP-BAT-0040), or type 'q' to quit:   sample 01: 3.61954836 V
+  sample 02: 3.61954976 V
+  sample 03: 3.61954959 V
+  sample 04: 3.61954841 V
+  sample 05: 3.61955078 V
+  sample 06: 3.61955016 V
+  sample 07: 3.61954861 V
+  sample 08: 3.61954715 V
+  sample 09: 3.61955162 V
+  sample 10: 3.61954841 V
+  average   : 3.61954929 V
+Cell 40 [LIBP-BAT-0040] average: 3.6195492850 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:16:46.984Z', 'id': 'bav8vlljt7109mo', 'ir_mohm': '', 'sn': 'LIBP-BAT-0040', 'sn_num': 40, 'test_num': 1, 'updated': '2026-04-02 13:16:46.984Z', 'voltage_v': '3.619549285'}
+
+Press Enter to measure cell 41 (SN: LIBP-BAT-0041), or type 'q' to quit:   sample 01: 3.61872211 V
+  sample 02: 3.61872489 V
+  sample 03: 3.61872198 V
+  sample 04: 3.61872189 V
+  sample 05: 3.61871942 V
+  sample 06: 3.61872207 V
+  sample 07: 3.61872140 V
+  sample 08: 3.61872219 V
+  sample 09: 3.61872187 V
+  sample 10: 3.61872110 V
+  average   : 3.61872189 V
+Cell 41 [LIBP-BAT-0041] average: 3.6187218920 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:17:01.898Z', 'id': 'juhccxekdobrs7s', 'ir_mohm': '', 'sn': 'LIBP-BAT-0041', 'sn_num': 41, 'test_num': 1, 'updated': '2026-04-02 13:17:01.898Z', 'voltage_v': '3.618721892'}
+
+Press Enter to measure cell 42 (SN: LIBP-BAT-0042), or type 'q' to quit:   sample 01: 3.60862578 V
+  sample 02: 3.60862628 V
+  sample 03: 3.60862739 V
+  sample 04: 3.60862708 V
+  sample 05: 3.60862806 V
+  sample 06: 3.60862634 V
+  sample 07: 3.60862805 V
+  sample 08: 3.60862669 V
+  sample 09: 3.60862460 V
+  sample 10: 3.60862955 V
+  average   : 3.60862698 V
+Cell 42 [LIBP-BAT-0042] average: 3.6086269820 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:17:32.323Z', 'id': 'clexzl6mzug989z', 'ir_mohm': '', 'sn': 'LIBP-BAT-0042', 'sn_num': 42, 'test_num': 1, 'updated': '2026-04-02 13:17:32.323Z', 'voltage_v': '3.6086269819999996'}
+
+Press Enter to measure cell 43 (SN: LIBP-BAT-0043), or type 'q' to quit:   sample 01: 3.62176000 V
+  sample 02: 3.62176004 V
+  sample 03: 3.62176073 V
+  sample 04: 3.62175886 V
+  sample 05: 3.62175997 V
+  sample 06: 3.62175976 V
+  sample 07: 3.62175869 V
+  sample 08: 3.62176259 V
+  sample 09: 3.62176064 V
+  sample 10: 3.62176053 V
+  average   : 3.62176018 V
+Cell 43 [LIBP-BAT-0043] average: 3.6217601810 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:18:51.936Z', 'id': 'sier3nstoic8hg8', 'ir_mohm': '', 'sn': 'LIBP-BAT-0043', 'sn_num': 43, 'test_num': 1, 'updated': '2026-04-02 13:18:51.936Z', 'voltage_v': '3.621760181'}
+
+Press Enter to measure cell 44 (SN: LIBP-BAT-0044), or type 'q' to quit:   sample 01: 3.55918056 V
+  sample 02: 3.55918016 V
+  sample 03: 3.55918200 V
+  sample 04: 3.55918011 V
+  sample 05: 3.55918101 V
+  sample 06: 3.55918148 V
+  sample 07: 3.55917944 V
+  sample 08: 3.55918167 V
+  sample 09: 3.55918146 V
+  sample 10: 3.55918007 V
+  average   : 3.55918080 V
+Cell 44 [LIBP-BAT-0044] average: 3.5591807960 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:19:04.261Z', 'id': '3myjaynt8kbr6z6', 'ir_mohm': '', 'sn': 'LIBP-BAT-0044', 'sn_num': 44, 'test_num': 1, 'updated': '2026-04-02 13:19:04.261Z', 'voltage_v': '3.5591807959999997'}
+
+Press Enter to measure cell 45 (SN: LIBP-BAT-0045), or type 'q' to quit:   sample 01: 3.61747064 V
+  sample 02: 3.61746876 V
+  sample 03: 3.61747085 V
+  sample 04: 3.61747275 V
+  sample 05: 3.61747071 V
+  sample 06: 3.61747183 V
+  sample 07: 3.61747315 V
+  sample 08: 3.61747254 V
+  sample 09: 3.61747049 V
+  sample 10: 3.61747518 V
+  average   : 3.61747169 V
+Cell 45 [LIBP-BAT-0045] average: 3.6174716900 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:19:38.247Z', 'id': 'sttjr3i86h9xrxy', 'ir_mohm': '', 'sn': 'LIBP-BAT-0045', 'sn_num': 45, 'test_num': 1, 'updated': '2026-04-02 13:19:38.247Z', 'voltage_v': '3.61747169'}
+
+Press Enter to measure cell 46 (SN: LIBP-BAT-0046), or type 'q' to quit:   sample 01: 3.61911754 V
+  sample 02: 3.61911746 V
+  sample 03: 3.61911911 V
+  sample 04: 3.61911859 V
+  sample 05: 3.61911878 V
+  sample 06: 3.61912035 V
+  sample 07: 3.61912182 V
+  sample 08: 3.61911748 V
+  sample 09: 3.61911807 V
+  sample 10: 3.61911948 V
+  average   : 3.61911887 V
+Cell 46 [LIBP-BAT-0046] average: 3.6191188680 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:20:01.264Z', 'id': 'afbv45asf3fsw6g', 'ir_mohm': '', 'sn': 'LIBP-BAT-0046', 'sn_num': 46, 'test_num': 1, 'updated': '2026-04-02 13:20:01.264Z', 'voltage_v': '3.619118868'}
+
+Press Enter to measure cell 47 (SN: LIBP-BAT-0047), or type 'q' to quit:   sample 01: 3.61013970 V
+  sample 02: 3.61013965 V
+  sample 03: 3.61014180 V
+  sample 04: 3.61014232 V
+  sample 05: 3.61014120 V
+  sample 06: 3.61014382 V
+  sample 07: 3.61014494 V
+  sample 08: 3.61014345 V
+  sample 09: 3.61014518 V
+  sample 10: 3.61014252 V
+  average   : 3.61014246 V
+Cell 47 [LIBP-BAT-0047] average: 3.6101424580 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:20:12.467Z', 'id': 'qy7sadeb1j9y2hq', 'ir_mohm': '', 'sn': 'LIBP-BAT-0047', 'sn_num': 47, 'test_num': 1, 'updated': '2026-04-02 13:20:12.467Z', 'voltage_v': '3.610142458'}
+
+Press Enter to measure cell 48 (SN: LIBP-BAT-0048), or type 'q' to quit:   sample 01: 3.62194943 V
+  sample 02: 3.62194824 V
+  sample 03: 3.62194920 V
+  sample 04: 3.62194753 V
+  sample 05: 3.62194858 V
+  sample 06: 3.62194538 V
+  sample 07: 3.62194944 V
+  sample 08: 3.62194865 V
+  sample 09: 3.62194569 V
+  sample 10: 3.62194622 V
+  average   : 3.62194784 V
+Cell 48 [LIBP-BAT-0048] average: 3.6219478360 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:20:24.704Z', 'id': 'es3vneci2l601o8', 'ir_mohm': '', 'sn': 'LIBP-BAT-0048', 'sn_num': 48, 'test_num': 1, 'updated': '2026-04-02 13:20:24.704Z', 'voltage_v': '3.6219478359999995'}
+
+Press Enter to measure cell 49 (SN: LIBP-BAT-0049), or type 'q' to quit:   sample 01: 3.61675088 V
+  sample 02: 3.61675187 V
+  sample 03: 3.61675094 V
+  sample 04: 3.61675120 V
+  sample 05: 3.61675192 V
+  sample 06: 3.61675075 V
+  sample 07: 3.61675202 V
+  sample 08: 3.61674964 V
+  sample 09: 3.61675118 V
+  sample 10: 3.61675317 V
+  average   : 3.61675136 V
+Cell 49 [LIBP-BAT-0049] average: 3.6167513570 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:20:41.763Z', 'id': 'o3aam1cpfdxouic', 'ir_mohm': '', 'sn': 'LIBP-BAT-0049', 'sn_num': 49, 'test_num': 1, 'updated': '2026-04-02 13:20:41.763Z', 'voltage_v': '3.6167513569999996'}
+
+Press Enter to measure cell 50 (SN: LIBP-BAT-0050), or type 'q' to quit:   sample 01: 3.60430279 V
+  sample 02: 3.60430694 V
+  sample 03: 3.60430294 V
+  sample 04: 3.60430226 V
+  sample 05: 3.60430114 V
+  sample 06: 3.60430247 V
+  sample 07: 3.60430354 V
+  sample 08: 3.60430310 V
+  sample 09: 3.60430228 V
+  sample 10: 3.60430459 V
+  average   : 3.60430320 V
+Cell 50 [LIBP-BAT-0050] average: 3.6043032050 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:20:55.094Z', 'id': 'ig0u4a6az4oo4ky', 'ir_mohm': '', 'sn': 'LIBP-BAT-0050', 'sn_num': 50, 'test_num': 1, 'updated': '2026-04-02 13:20:55.094Z', 'voltage_v': '3.604303205'}
+
+Press Enter to measure cell 51 (SN: LIBP-BAT-0051), or type 'q' to quit:   sample 01: 3.59044563 V
+  sample 02: 3.59044635 V
+  sample 03: 3.59044629 V
+  sample 04: 3.59044868 V
+  sample 05: 3.59044904 V
+  sample 06: 3.59044401 V
+  sample 07: 3.59044823 V
+  sample 08: 3.59044725 V
+  sample 09: 3.59044757 V
+  sample 10: 3.59044724 V
+  average   : 3.59044703 V
+Cell 51 [LIBP-BAT-0051] average: 3.5904470290 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:21:15.026Z', 'id': '7ytosv0xtumw5q6', 'ir_mohm': '', 'sn': 'LIBP-BAT-0051', 'sn_num': 51, 'test_num': 1, 'updated': '2026-04-02 13:21:15.026Z', 'voltage_v': '3.590447029'}
+
+Press Enter to measure cell 52 (SN: LIBP-BAT-0052), or type 'q' to quit:   sample 01: 3.62001375 V
+  sample 02: 3.62001512 V
+  sample 03: 3.62001120 V
+  sample 04: 3.62001414 V
+  sample 05: 3.62001327 V
+  sample 06: 3.62001515 V
+  sample 07: 3.62001470 V
+  sample 08: 3.62001199 V
+  sample 09: 3.62001875 V
+  sample 10: 3.62001523 V
+  average   : 3.62001433 V
+Cell 52 [LIBP-BAT-0052] average: 3.6200143300 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:21:28.621Z', 'id': 'jeqxtl6t5oa3l0w', 'ir_mohm': '', 'sn': 'LIBP-BAT-0052', 'sn_num': 52, 'test_num': 1, 'updated': '2026-04-02 13:21:28.621Z', 'voltage_v': '3.62001433'}
+
+Press Enter to measure cell 53 (SN: LIBP-BAT-0053), or type 'q' to quit:   sample 01: 3.62227821 V
+  sample 02: 3.62227499 V
+  sample 03: 3.62227423 V
+  sample 04: 3.62227622 V
+  sample 05: 3.62227877 V
+  sample 06: 3.62227436 V
+  sample 07: 3.62227876 V
+  sample 08: 3.62227799 V
+  sample 09: 3.62227765 V
+  sample 10: 3.62227708 V
+  average   : 3.62227683 V
+Cell 53 [LIBP-BAT-0053] average: 3.6222768260 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:21:41.148Z', 'id': 'rntnwxjfo22hh05', 'ir_mohm': '', 'sn': 'LIBP-BAT-0053', 'sn_num': 53, 'test_num': 1, 'updated': '2026-04-02 13:21:41.148Z', 'voltage_v': '3.6222768260000002'}
+
+Press Enter to measure cell 54 (SN: LIBP-BAT-0054), or type 'q' to quit:   sample 01: 3.59201523 V
+  sample 02: 3.59201385 V
+  sample 03: 3.59201557 V
+  sample 04: 3.59202029 V
+  sample 05: 3.59201486 V
+  sample 06: 3.59201546 V
+  sample 07: 3.59201369 V
+  sample 08: 3.59201428 V
+  sample 09: 3.59201498 V
+  sample 10: 3.59201417 V
+  average   : 3.59201524 V
+Cell 54 [LIBP-BAT-0054] average: 3.5920152380 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:21:52.604Z', 'id': 'oedzlsmk77yrh2i', 'ir_mohm': '', 'sn': 'LIBP-BAT-0054', 'sn_num': 54, 'test_num': 1, 'updated': '2026-04-02 13:21:52.604Z', 'voltage_v': '3.5920152379999997'}
+
+Press Enter to measure cell 55 (SN: LIBP-BAT-0055), or type 'q' to quit:   sample 01: 3.61049852 V
+  sample 02: 3.61049698 V
+  sample 03: 3.61049615 V
+  sample 04: 3.61049755 V
+  sample 05: 3.61049497 V
+  sample 06: 3.61049538 V
+  sample 07: 3.61049379 V
+  sample 08: 3.61049755 V
+  sample 09: 3.61049602 V
+  sample 10: 3.61049505 V
+  average   : 3.61049620 V
+Cell 55 [LIBP-BAT-0055] average: 3.6104961960 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:22:18.992Z', 'id': '5s2oyeqwafmbxzf', 'ir_mohm': '', 'sn': 'LIBP-BAT-0055', 'sn_num': 55, 'test_num': 1, 'updated': '2026-04-02 13:22:18.992Z', 'voltage_v': '3.6104961959999997'}
+
+Press Enter to measure cell 56 (SN: LIBP-BAT-0056), or type 'q' to quit:   sample 01: 3.61771527 V
+  sample 02: 3.61771190 V
+  sample 03: 3.61771169 V
+  sample 04: 3.61771171 V
+  sample 05: 3.61770828 V
+  sample 06: 3.61771477 V
+  sample 07: 3.61771135 V
+  sample 08: 3.61771120 V
+  sample 09: 3.61771132 V
+  sample 10: 3.61771330 V
+  average   : 3.61771208 V
+Cell 56 [LIBP-BAT-0056] average: 3.6177120790 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:22:32.874Z', 'id': 'x0tcd2mlol6hgxn', 'ir_mohm': '', 'sn': 'LIBP-BAT-0056', 'sn_num': 56, 'test_num': 1, 'updated': '2026-04-02 13:22:32.874Z', 'voltage_v': '3.6177120790000004'}
+
+Press Enter to measure cell 57 (SN: LIBP-BAT-0057), or type 'q' to quit:   sample 01: 3.61780830 V
+  sample 02: 3.61780753 V
+  sample 03: 3.61780729 V
+  sample 04: 3.61780636 V
+  sample 05: 3.61781011 V
+  sample 06: 3.61781063 V
+  sample 07: 3.61780831 V
+  sample 08: 3.61780740 V
+  sample 09: 3.61780721 V
+  sample 10: 3.61780696 V
+  average   : 3.61780801 V
+Cell 57 [LIBP-BAT-0057] average: 3.6178080100 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:22:49.378Z', 'id': 'xkgfyfi40eeo0bc', 'ir_mohm': '', 'sn': 'LIBP-BAT-0057', 'sn_num': 57, 'test_num': 1, 'updated': '2026-04-02 13:22:49.378Z', 'voltage_v': '3.61780801'}
+
+Press Enter to measure cell 58 (SN: LIBP-BAT-0058), or type 'q' to quit:   sample 01: 3.60898059 V
+  sample 02: 3.60898032 V
+  sample 03: 3.60898169 V
+  sample 04: 3.60898164 V
+  sample 05: 3.60897936 V
+  sample 06: 3.60898079 V
+  sample 07: 3.60898014 V
+  sample 08: 3.60897893 V
+  sample 09: 3.60898271 V
+  sample 10: 3.60898016 V
+  average   : 3.60898063 V
+Cell 58 [LIBP-BAT-0058] average: 3.6089806330 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:23:05.066Z', 'id': '2le5t1yiwdsfbgy', 'ir_mohm': '', 'sn': 'LIBP-BAT-0058', 'sn_num': 58, 'test_num': 1, 'updated': '2026-04-02 13:23:05.066Z', 'voltage_v': '3.6089806330000003'}
+
+Press Enter to measure cell 59 (SN: LIBP-BAT-0059), or type 'q' to quit:   sample 01: 3.62437871 V
+  sample 02: 3.62438006 V
+  sample 03: 3.62438050 V
+  sample 04: 3.62437840 V
+  sample 05: 3.62438037 V
+  sample 06: 3.62437823 V
+  sample 07: 3.62437964 V
+  sample 08: 3.62437749 V
+  sample 09: 3.62438105 V
+  sample 10: 3.62438299 V
+  average   : 3.62437974 V
+Cell 59 [LIBP-BAT-0059] average: 3.6243797440 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:23:17.101Z', 'id': 'w7ku0tk0l5s3k0a', 'ir_mohm': '', 'sn': 'LIBP-BAT-0059', 'sn_num': 59, 'test_num': 1, 'updated': '2026-04-02 13:23:17.101Z', 'voltage_v': '3.624379744'}
+
+Press Enter to measure cell 60 (SN: LIBP-BAT-0060), or type 'q' to quit:   sample 01: 3.58472891 V
+  sample 02: 3.58472793 V
+  sample 03: 3.58472695 V
+  sample 04: 3.58472628 V
+  sample 05: 3.58472935 V
+  sample 06: 3.58472974 V
+  sample 07: 3.58473002 V
+  sample 08: 3.58472819 V
+  sample 09: 3.58472739 V
+  sample 10: 3.58472766 V
+  average   : 3.58472824 V
+Cell 60 [LIBP-BAT-0060] average: 3.5847282420 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:23:28.749Z', 'id': '0u5tralpvxlf34h', 'ir_mohm': '', 'sn': 'LIBP-BAT-0060', 'sn_num': 60, 'test_num': 1, 'updated': '2026-04-02 13:23:28.749Z', 'voltage_v': '3.5847282419999997'}
+
+Press Enter to measure cell 61 (SN: LIBP-BAT-0061), or type 'q' to quit:   sample 01: 3.62277490 V
+  sample 02: 3.62277586 V
+  sample 03: 3.62277557 V
+  sample 04: 3.62277438 V
+  sample 05: 3.62277440 V
+  sample 06: 3.62277371 V
+  sample 07: 3.62277573 V
+  sample 08: 3.62277562 V
+  sample 09: 3.62277368 V
+  sample 10: 3.62277224 V
+  average   : 3.62277461 V
+Cell 61 [LIBP-BAT-0061] average: 3.6227746090 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:23:39.032Z', 'id': 'gk8mwnv4yqvb2jc', 'ir_mohm': '', 'sn': 'LIBP-BAT-0061', 'sn_num': 61, 'test_num': 1, 'updated': '2026-04-02 13:23:39.032Z', 'voltage_v': '3.6227746089999995'}
+
+Press Enter to measure cell 62 (SN: LIBP-BAT-0062), or type 'q' to quit:   sample 01: 3.61886910 V
+  sample 02: 3.61887006 V
+  sample 03: 3.61887073 V
+  sample 04: 3.61886652 V
+  sample 05: 3.61886998 V
+  sample 06: 3.61887058 V
+  sample 07: 3.61887328 V
+  sample 08: 3.61886753 V
+  sample 09: 3.61886917 V
+  sample 10: 3.61886986 V
+  average   : 3.61886968 V
+Cell 62 [LIBP-BAT-0062] average: 3.6188696810 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:23:52.192Z', 'id': 'y5xeecccqk1wbk4', 'ir_mohm': '', 'sn': 'LIBP-BAT-0062', 'sn_num': 62, 'test_num': 1, 'updated': '2026-04-02 13:23:52.192Z', 'voltage_v': '3.6188696809999996'}
+
+Press Enter to measure cell 63 (SN: LIBP-BAT-0063), or type 'q' to quit:   sample 01: 3.57233616 V
+  sample 02: 3.57233592 V
+  sample 03: 3.57233548 V
+  sample 04: 3.57233662 V
+  sample 05: 3.57233776 V
+  sample 06: 3.57233823 V
+  sample 07: 3.57233502 V
+  sample 08: 3.57233672 V
+  sample 09: 3.57233357 V
+  sample 10: 3.57233846 V
+  average   : 3.57233639 V
+Cell 63 [LIBP-BAT-0063] average: 3.5723363940 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:24:08.256Z', 'id': 'fk2fcogso2yx55t', 'ir_mohm': '', 'sn': 'LIBP-BAT-0063', 'sn_num': 63, 'test_num': 1, 'updated': '2026-04-02 13:24:08.256Z', 'voltage_v': '3.5723363939999997'}
+
+Press Enter to measure cell 64 (SN: LIBP-BAT-0064), or type 'q' to quit:   sample 01: 3.61964557 V
+  sample 02: 3.61964471 V
+  sample 03: 3.61964697 V
+  sample 04: 3.61964277 V
+  sample 05: 3.61964545 V
+  sample 06: 3.61964315 V
+  sample 07: 3.61964517 V
+  sample 08: 3.61964373 V
+  sample 09: 3.61964164 V
+  sample 10: 3.61964482 V
+  average   : 3.61964440 V
+Cell 64 [LIBP-BAT-0064] average: 3.6196443980 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:24:20.414Z', 'id': 'iyfuem2qrtf05au', 'ir_mohm': '', 'sn': 'LIBP-BAT-0064', 'sn_num': 64, 'test_num': 1, 'updated': '2026-04-02 13:24:20.414Z', 'voltage_v': '3.6196443979999997'}
+
+Press Enter to measure cell 65 (SN: LIBP-BAT-0065), or type 'q' to quit:   sample 01: 3.56850693 V
+  sample 02: 3.56850687 V
+  sample 03: 3.56851082 V
+  sample 04: 3.56850807 V
+  sample 05: 3.56851023 V
+  sample 06: 3.56850821 V
+  sample 07: 3.56850661 V
+  sample 08: 3.56850810 V
+  sample 09: 3.56850418 V
+  sample 10: 3.56850834 V
+  average   : 3.56850784 V
+Cell 65 [LIBP-BAT-0065] average: 3.5685078360 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:24:43.313Z', 'id': 'vi1ujtefzfrjs7f', 'ir_mohm': '', 'sn': 'LIBP-BAT-0065', 'sn_num': 65, 'test_num': 1, 'updated': '2026-04-02 13:24:43.313Z', 'voltage_v': '3.5685078359999998'}
+
+Press Enter to measure cell 66 (SN: LIBP-BAT-0066), or type 'q' to quit:   sample 01: 3.62220080 V
+  sample 02: 3.62219906 V
+  sample 03: 3.62220483 V
+  sample 04: 3.62219627 V
+  sample 05: 3.62220336 V
+  sample 06: 3.62220355 V
+  sample 07: 3.62220233 V
+  sample 08: 3.62220229 V
+  sample 09: 3.62220307 V
+  sample 10: 3.62220299 V
+  average   : 3.62220186 V
+Cell 66 [LIBP-BAT-0066] average: 3.6222018550 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:24:55.037Z', 'id': 'kx8ogs6e1701dpt', 'ir_mohm': '', 'sn': 'LIBP-BAT-0066', 'sn_num': 66, 'test_num': 1, 'updated': '2026-04-02 13:24:55.037Z', 'voltage_v': '3.622201855'}
+
+Press Enter to measure cell 67 (SN: LIBP-BAT-0067), or type 'q' to quit:   sample 01: 3.60940041 V
+  sample 02: 3.60940083 V
+  sample 03: 3.60939975 V
+  sample 04: 3.60939770 V
+  sample 05: 3.60939685 V
+  sample 06: 3.60940321 V
+  sample 07: 3.60939849 V
+  sample 08: 3.60939790 V
+  sample 09: 3.60939774 V
+  sample 10: 3.60939770 V
+  average   : 3.60939906 V
+Cell 67 [LIBP-BAT-0067] average: 3.6093990580 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:25:05.888Z', 'id': 'pm5jhjtjkq1zysg', 'ir_mohm': '', 'sn': 'LIBP-BAT-0067', 'sn_num': 67, 'test_num': 1, 'updated': '2026-04-02 13:25:05.888Z', 'voltage_v': '3.6093990579999997'}
+
+Press Enter to measure cell 68 (SN: LIBP-BAT-0068), or type 'q' to quit:   sample 01: 3.61770174 V
+  sample 02: 3.61770176 V
+  sample 03: 3.61769786 V
+  sample 04: 3.61769514 V
+  sample 05: 3.61769922 V
+  sample 06: 3.61769739 V
+  sample 07: 3.61769637 V
+  sample 08: 3.61769619 V
+  sample 09: 3.61769787 V
+  sample 10: 3.61769872 V
+  average   : 3.61769823 V
+Cell 68 [LIBP-BAT-0068] average: 3.6176982260 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:25:17.587Z', 'id': '399veqepdxdv0wm', 'ir_mohm': '', 'sn': 'LIBP-BAT-0068', 'sn_num': 68, 'test_num': 1, 'updated': '2026-04-02 13:25:17.587Z', 'voltage_v': '3.6176982260000003'}
+
+Press Enter to measure cell 69 (SN: LIBP-BAT-0069), or type 'q' to quit:   sample 01: 3.62054245 V
+  sample 02: 3.62054198 V
+  sample 03: 3.62053935 V
+  sample 04: 3.62053926 V
+  sample 05: 3.62054034 V
+  sample 06: 3.62053786 V
+  sample 07: 3.62053887 V
+  sample 08: 3.62053699 V
+  sample 09: 3.62053869 V
+  sample 10: 3.62053768 V
+  average   : 3.62053935 V
+Cell 69 [LIBP-BAT-0069] average: 3.6205393470 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:25:27.506Z', 'id': 'd97ffw81c36a1vi', 'ir_mohm': '', 'sn': 'LIBP-BAT-0069', 'sn_num': 69, 'test_num': 1, 'updated': '2026-04-02 13:25:27.506Z', 'voltage_v': '3.620539347'}
+
+Press Enter to measure cell 70 (SN: LIBP-BAT-0070), or type 'q' to quit:   sample 01: 3.58878447 V
+  sample 02: 3.58878713 V
+  sample 03: 3.58878587 V
+  sample 04: 3.58878412 V
+  sample 05: 3.58878061 V
+  sample 06: 3.58878346 V
+  sample 07: 3.58878293 V
+  sample 08: 3.58878283 V
+  sample 09: 3.58878576 V
+  sample 10: 3.58878330 V
+  average   : 3.58878405 V
+Cell 70 [LIBP-BAT-0070] average: 3.5887840480 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:25:37.772Z', 'id': 'qjz1xs9a9byasr0', 'ir_mohm': '', 'sn': 'LIBP-BAT-0070', 'sn_num': 70, 'test_num': 1, 'updated': '2026-04-02 13:25:37.772Z', 'voltage_v': '3.588784048'}
+
+Press Enter to measure cell 71 (SN: LIBP-BAT-0071), or type 'q' to quit:   sample 01: 3.57113725 V
+  sample 02: 3.57113827 V
+  sample 03: 3.57113883 V
+  sample 04: 3.57113675 V
+  sample 05: 3.57113765 V
+  sample 06: 3.57113697 V
+  sample 07: 3.57113803 V
+  sample 08: 3.57114030 V
+  sample 09: 3.57113729 V
+  sample 10: 3.57113727 V
+  average   : 3.57113786 V
+Cell 71 [LIBP-BAT-0071] average: 3.5711378610 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:25:58.491Z', 'id': 'cxhveta9swq72ux', 'ir_mohm': '', 'sn': 'LIBP-BAT-0071', 'sn_num': 71, 'test_num': 1, 'updated': '2026-04-02 13:25:58.491Z', 'voltage_v': '3.5711378609999995'}
+
+Press Enter to measure cell 72 (SN: LIBP-BAT-0072), or type 'q' to quit:   sample 01: 3.58757745 V
+  sample 02: 3.58758051 V
+  sample 03: 3.58757864 V
+  sample 04: 3.58758027 V
+  sample 05: 3.58758098 V
+  sample 06: 3.58758129 V
+  sample 07: 3.58757980 V
+  sample 08: 3.58758259 V
+  sample 09: 3.58757901 V
+  sample 10: 3.58758195 V
+  average   : 3.58758025 V
+Cell 72 [LIBP-BAT-0072] average: 3.5875802490 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:26:08.045Z', 'id': 'tjcnp5luqstlr3k', 'ir_mohm': '', 'sn': 'LIBP-BAT-0072', 'sn_num': 72, 'test_num': 1, 'updated': '2026-04-02 13:26:08.045Z', 'voltage_v': '3.5875802489999997'}
+
+Press Enter to measure cell 73 (SN: LIBP-BAT-0073), or type 'q' to quit:   sample 01: 3.61590361 V
+  sample 02: 3.61590333 V
+  sample 03: 3.61590796 V
+  sample 04: 3.61590561 V
+  sample 05: 3.61590317 V
+  sample 06: 3.61590355 V
+  sample 07: 3.61590444 V
+  sample 08: 3.61590710 V
+  sample 09: 3.61590632 V
+  sample 10: 3.61590492 V
+  average   : 3.61590500 V
+Cell 73 [LIBP-BAT-0073] average: 3.6159050010 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:26:39.188Z', 'id': 'vf1ye01c5lk5isr', 'ir_mohm': '', 'sn': 'LIBP-BAT-0073', 'sn_num': 73, 'test_num': 1, 'updated': '2026-04-02 13:26:39.188Z', 'voltage_v': '3.6159050010000002'}
+
+Press Enter to measure cell 74 (SN: LIBP-BAT-0074), or type 'q' to quit:   sample 01: 3.61516385 V
+  sample 02: 3.61516641 V
+  sample 03: 3.61516510 V
+  sample 04: 3.61516597 V
+  sample 05: 3.61516350 V
+  sample 06: 3.61516552 V
+  sample 07: 3.61516661 V
+  sample 08: 3.61516467 V
+  sample 09: 3.61516606 V
+  sample 10: 3.61516575 V
+  average   : 3.61516534 V
+Cell 74 [LIBP-BAT-0074] average: 3.6151653440 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:26:49.044Z', 'id': '8b5btcpxxw9kcwo', 'ir_mohm': '', 'sn': 'LIBP-BAT-0074', 'sn_num': 74, 'test_num': 1, 'updated': '2026-04-02 13:26:49.044Z', 'voltage_v': '3.6151653440000002'}
+
+Press Enter to measure cell 75 (SN: LIBP-BAT-0075), or type 'q' to quit:   sample 01: 3.60186770 V
+  sample 02: 3.60186430 V
+  sample 03: 3.60186818 V
+  sample 04: 3.60186565 V
+  sample 05: 3.60186747 V
+  sample 06: 3.60186651 V
+  sample 07: 3.60186700 V
+  sample 08: 3.60186456 V
+  sample 09: 3.60186767 V
+  sample 10: 3.60186588 V
+  average   : 3.60186649 V
+Cell 75 [LIBP-BAT-0075] average: 3.6018664920 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:27:06.309Z', 'id': '3c41idbflompadl', 'ir_mohm': '', 'sn': 'LIBP-BAT-0075', 'sn_num': 75, 'test_num': 1, 'updated': '2026-04-02 13:27:06.309Z', 'voltage_v': '3.601866492'}
+
+Press Enter to measure cell 76 (SN: LIBP-BAT-0076), or type 'q' to quit:   sample 01: 3.58480025 V
+  sample 02: 3.58480015 V
+  sample 03: 3.58480078 V
+  sample 04: 3.58479920 V
+  sample 05: 3.58480067 V
+  sample 06: 3.58480457 V
+  sample 07: 3.58480279 V
+  sample 08: 3.58480192 V
+  sample 09: 3.58480250 V
+  sample 10: 3.58480239 V
+  average   : 3.58480152 V
+Cell 76 [LIBP-BAT-0076] average: 3.5848015220 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:27:16.986Z', 'id': 'huud91awrh5euzy', 'ir_mohm': '', 'sn': 'LIBP-BAT-0076', 'sn_num': 76, 'test_num': 1, 'updated': '2026-04-02 13:27:16.986Z', 'voltage_v': '3.5848015220000002'}
+
+Press Enter to measure cell 77 (SN: LIBP-BAT-0077), or type 'q' to quit:   sample 01: 3.61026583 V
+  sample 02: 3.61026869 V
+  sample 03: 3.61026824 V
+  sample 04: 3.61026766 V
+  sample 05: 3.61026414 V
+  sample 06: 3.61026763 V
+  sample 07: 3.61026673 V
+  sample 08: 3.61026663 V
+  sample 09: 3.61026339 V
+  sample 10: 3.61026904 V
+  average   : 3.61026680 V
+Cell 77 [LIBP-BAT-0077] average: 3.6102667980 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:27:30.544Z', 'id': '1mldj4492z6nrfp', 'ir_mohm': '', 'sn': 'LIBP-BAT-0077', 'sn_num': 77, 'test_num': 1, 'updated': '2026-04-02 13:27:30.544Z', 'voltage_v': '3.610266798'}
+
+Press Enter to measure cell 78 (SN: LIBP-BAT-0078), or type 'q' to quit:   sample 01: 3.60508944 V
+  sample 02: 3.60509144 V
+  sample 03: 3.60509056 V
+  sample 04: 3.60508995 V
+  sample 05: 3.60508852 V
+  sample 06: 3.60508773 V
+  sample 07: 3.60509210 V
+  sample 08: 3.60509036 V
+  sample 09: 3.60509235 V
+  sample 10: 3.60508801 V
+  average   : 3.60509005 V
+Cell 78 [LIBP-BAT-0078] average: 3.6050900460 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:27:43.661Z', 'id': '4h5gv40g5dub1jb', 'ir_mohm': '', 'sn': 'LIBP-BAT-0078', 'sn_num': 78, 'test_num': 1, 'updated': '2026-04-02 13:27:43.661Z', 'voltage_v': '3.605090046'}
+
+Press Enter to measure cell 79 (SN: LIBP-BAT-0079), or type 'q' to quit:   sample 01: 3.61951321 V
+  sample 02: 3.61951313 V
+  sample 03: 3.61951071 V
+  sample 04: 3.61951498 V
+  sample 05: 3.61951335 V
+  sample 06: 3.61951270 V
+  sample 07: 3.61951305 V
+  sample 08: 3.61951555 V
+  sample 09: 3.61951335 V
+  sample 10: 3.61951157 V
+  average   : 3.61951316 V
+Cell 79 [LIBP-BAT-0079] average: 3.6195131600 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:27:59.910Z', 'id': '4v6fh8yml3bwrvo', 'ir_mohm': '', 'sn': 'LIBP-BAT-0079', 'sn_num': 79, 'test_num': 1, 'updated': '2026-04-02 13:27:59.910Z', 'voltage_v': '3.6195131600000003'}
+
+Press Enter to measure cell 80 (SN: LIBP-BAT-0080), or type 'q' to quit:   sample 01: 0.74029177 V
+  sample 02: 0.77368666 V
+  sample 03: 0.76919137 V
+  sample 04: 0.77032236 V
+  sample 05: 0.77529235 V
+  sample 06: 0.78030898 V
+  sample 07: 0.78251231 V
+  sample 08: 0.78367533 V
+  sample 09: 0.78504245 V
+  sample 10: 0.78546304 V
+  average   : 0.77457866 V
+Cell 80 [LIBP-BAT-0080] average: 0.7745786615 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:28:17.029Z', 'id': 'sarstooeccyjoxp', 'ir_mohm': '', 'sn': 'LIBP-BAT-0080', 'sn_num': 80, 'test_num': 1, 'updated': '2026-04-02 13:28:17.029Z', 'voltage_v': '0.7745786615'}
+
+Finished. Next battery_cell_id would be: 81
+Hello from bat-voltage-measure!
+PocketBase auth OK
+Resources: ('ASRL1::INSTR', 'ASRL2::INSTR', 'ASRL3::INSTR', 'ASRL4::INSTR', 'USB0::0x2A8D::0x1601::MY60089648::INSTR')
+IDN: Keysight Technologies,34460A,MY60089648,A.03.03-03.15-03.03-00.52-04-03
+
+Press Enter to measure cell 80 (SN: LIBP-BAT-0080), or type 'q' to quit:   sample 01: 3.60579913 V
+  sample 02: 3.60579707 V
+  sample 03: 3.60579688 V
+  sample 04: 3.60579823 V
+  sample 05: 3.60579843 V
+  sample 06: 3.60579841 V
+  sample 07: 3.60579728 V
+  sample 08: 3.60579744 V
+  sample 09: 3.60579715 V
+  sample 10: 3.60579782 V
+  average   : 3.60579778 V
+Cell 80 [LIBP-BAT-0080] average: 3.6057977840 V
+Created record successfully:
+{'collectionId': 'pbc_638208807', 'collectionName': 'measurements', 'created': '2026-04-02 13:29:12.674Z', 'id': 'j35amckb6m4knbc', 'ir_mohm': '', 'sn': 'LIBP-BAT-0080', 'sn_num': 80, 'test_num': 1, 'updated': '2026-04-02 13:29:12.674Z', 'voltage_v': '3.605797784'}
+
+Finished. Next battery_cell_id would be: 81
