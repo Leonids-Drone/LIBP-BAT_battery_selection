@@ -40,6 +40,7 @@ def fetch_all_records(token: str) -> list[dict]:
                 "page": page,
                 "perPage": per_page,
                 "sort": "sn",
+                "filter": "test_num=2",
             },
             timeout=10,
         )
